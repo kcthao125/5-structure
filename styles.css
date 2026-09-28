@@ -1,5 +1,5 @@
 html{
-    background-color: burlywood;
+    background-color: black;
 }
 
 body{
@@ -10,8 +10,50 @@ h1{
     margin: 0;
 }
 
+.nav-links{
+    color: white;
+}
+
+.branding-border{
+    border-bottom: 5px, dotted, white; 
+    padding-bottom: 5px;
+
+}
+
+.viburnum{
+    color: cadetblue;
+}
+
 .main-header{
     background-color: aqua;
     padding: 30px;
 }
 
+.viburnum-header{
+    background-color: cadetblue;
+    color:aliceblue;
+    padding: 30px;
+    margin-bottom: 15px;
+}
+
+.viburnum-main{
+    background-color: darkcyan;
+    padding: 30px;
+    color: white;
+    margin-bottom: 15px;
+}
+
+.viburnum-footer{
+    background-color:darkslategray;
+    color: white;
+    padding: 30px;
+    padding-bottom: 90px;
+}
+
+.viburnum-mail{
+    color: white;
+}
+
+.uwm{
+    color:yellow;
+}
